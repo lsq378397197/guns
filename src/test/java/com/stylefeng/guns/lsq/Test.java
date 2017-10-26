@@ -21,5 +21,7 @@ public class Test {
 
     public static void main(String[] args) {
         new Test().say("啊啊了");
+
+        System.out.println("测试git上传代码");
     }
 }
